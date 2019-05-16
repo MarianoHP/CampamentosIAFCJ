@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Bienvenido";
+}
+<style type="text/css">
+    body {
+        margin: 0;
+        background-color: #EFDACA;
+        font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    }
+
+    .titulo {
+        color: #C89B6F;
+    }
+
+    .boton {
+        float: right;
+    }
+
+    .fondobotones {
+    }
+
+        .fondobotones:hover {
+            border-width: 2px;
+            background-color: #EFDACA !important;
+            border-color: #C89B6F !important;
+            color: #C89B6F !important;
+            font-weight: bold;
+        }
+</style>
+<br /><br /><br /><br />
+
+<p><a href="/Login/Index" class="btn btn-warning boton fondobotones">Cerrar Sesión</a></p>
+@if (Session["username"] != null)
+{
+    <h2 class="titulo">Bienvenido @Session["username"].ToString()</h2>
+    <div>
+        <p>Información importante que no deberías poder ver cambiando la dirección desde el navegador</p>
+    </div>
+}
+
+<br /><br /><br /><br />
+

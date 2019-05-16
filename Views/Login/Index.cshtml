@@ -7,10 +7,12 @@
 @using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
-
+    
+    <link rel="stylesheet" type="text/css" href="/Content/estilo.css" />
+    
     <br /><br /><br /><br />
     <div class="form-horizontal">
-        <h2>Inicio de sesión</h2>
+        <h2 class="titulo">Inicio de sesión</h2>
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         <div class="form-group">
@@ -31,7 +33,7 @@
 
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
-                <input type="submit" value="Enviar" class="btn btn-primary" />
+                <input type="submit" value="Enviar" class="btn btn-primary fondobotones" />
             </div>
         </div>
         <h1>@Html.ViewData["Message"]</h1>

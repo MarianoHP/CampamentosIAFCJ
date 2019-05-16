@@ -1,98 +1,989 @@
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\ApplicationInsights.config
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\CampIAFCJ.dll.config
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\CampIAFCJ.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\CampIAFCJ.pdb
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\csc.exe
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\csc.exe.config
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\csc.rsp
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\csi.exe
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\csi.exe.config
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\csi.rsp
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.AppContext.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Console.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Diagnostics.Process.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.IO.Compression.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.IO.Pipes.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.AccessControl.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.Claims.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.Principal.Windows.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Threading.Thread.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.ValueTuple.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Xml.XPath.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\vbc.exe
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\vbc.exe.config
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\vbc.rsp
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\VBCSCompiler.exe
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Antlr3.Runtime.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.Web.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.ApplicationInsights.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Newtonsoft.Json.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.Helpers.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.Mvc.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.Optimization.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.Razor.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.WebPages.Deployment.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.WebPages.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.WebPages.Razor.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\WebGrease.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.Helpers.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.Mvc.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.Optimization.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.Razor.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.WebPages.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.WebPages.Deployment.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\System.Web.WebPages.Razor.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Antlr3.Runtime.pdb
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Newtonsoft.Json.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.ApplicationInsights.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.Web.xml
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\es\System.Web.Helpers.resources.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\es\System.Web.Mvc.resources.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\es\System.Web.Optimization.resources.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\es\System.Web.Razor.resources.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\es\System.Web.WebPages.resources.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\obj\Debug\CampIAFCJ.csprojResolveAssemblyReference.cache
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\obj\Debug\CampIAFCJ.csproj.CoreCompileInputs.cache
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\obj\Debug\CampIAFCJ.csproj.CopyComplete
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\obj\Debug\CampIAFCJ.dll
-C:\Users\ilscp\Desktop\CampIAFCJ\CampIAFCJ\obj\Debug\CampIAFCJ.pdb
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/ApplicationInsights.config
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.dll.config
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.pdb
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.exe
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.exe.config
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.rsp
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.exe
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.exe.config
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.rsp
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.AppContext.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Console.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.Process.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.Compression.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.DriveInfo.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.Pipes.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Claims.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Threading.Thread.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.ValueTuple.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XPath.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.exe
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.exe.config
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.rsp
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/VBCSCompiler.exe
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Agent.Intercept.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.PerfCounterCollector.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/WebGrease.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.pdb
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.xml
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Helpers.resources.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Mvc.resources.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Optimization.resources.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Razor.resources.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.resources.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Deployment.resources.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Razor.resources.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csprojAssemblyReference.cache
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CoreCompileInputs.cache
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CopyComplete
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.dll
+C:/Users/ulise/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.pdb
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/ApplicationInsights.config
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.pdb
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Agent.Intercept.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.PerfCounterCollector.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Microsoft.Web.Infrastructure.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/WebGrease.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.xml
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.xml
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.xml
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.xml
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.xml
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.xml
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.pdb
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.xml
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Helpers.resources.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Mvc.resources.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Optimization.resources.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Razor.resources.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.resources.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Deployment.resources.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Razor.resources.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csprojAssemblyReference.cache
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CoreCompileInputs.cache
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CopyComplete
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.dll
+/home/mariano/Escritorio/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.pdb
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/ApplicationInsights.config
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.pdb
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.Web.Infrastructure.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/WebGrease.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.pdb
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Helpers.resources.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Mvc.resources.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Optimization.resources.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Razor.resources.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.resources.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Deployment.resources.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Razor.resources.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csprojAssemblyReference.cache
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CoreCompileInputs.cache
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CopyComplete
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.pdb
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/ApplicationInsights.config
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.dll.config
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.pdb
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._csc.exe
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._csc.exe.config
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._csc.rsp
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._csi.exe
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._csi.exe.config
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._csi.rsp
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CSharp.Core.targets
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.VisualBasic.Core.targets
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.Win32.Primitives.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.AppContext.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Collections.Immutable.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Console.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Diagnostics.FileVersionInfo.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Diagnostics.Process.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Diagnostics.StackTrace.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.Compression.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.FileSystem.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.FileSystem.DriveInfo.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.FileSystem.Primitives.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.Pipes.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Reflection.Metadata.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.AccessControl.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Claims.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.Algorithms.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.Encoding.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.Primitives.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.X509Certificates.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Principal.Windows.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Text.Encoding.CodePages.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Threading.Thread.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.ValueTuple.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.ReaderWriter.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.XmlDocument.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.XPath.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.XPath.XDocument.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._vbc.exe
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._vbc.exe.config
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._vbc.rsp
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._VBCSCompiler.exe
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/._VBCSCompiler.exe.config
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.exe
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.exe.config
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.rsp
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.exe
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.exe.config
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.rsp
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.AppContext.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Console.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.Process.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.Compression.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.DriveInfo.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.Pipes.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Claims.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Threading.Thread.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.ValueTuple.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XPath.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.exe
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.exe.config
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.rsp
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/VBCSCompiler.exe
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Agent.Intercept.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.PerfCounterCollector.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/WebGrease.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.pdb
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.xml
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Helpers.resources.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Mvc.resources.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Optimization.resources.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Razor.resources.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.resources.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Deployment.resources.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Razor.resources.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csprojResolveAssemblyReference.cache
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CoreCompileInputs.cache
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CopyComplete
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.dll
+C:/Users/ilscp/Desktop/pruebaaaaaCAMPAMENTOOOO/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.pdb
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/ApplicationInsights.config
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.dll.config
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.pdb
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._csc.exe
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._csc.exe.config
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._csc.rsp
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._csi.exe
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._csi.exe.config
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._csi.rsp
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CSharp.Core.targets
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.VisualBasic.Core.targets
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.Win32.Primitives.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.AppContext.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Collections.Immutable.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Console.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Diagnostics.FileVersionInfo.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Diagnostics.Process.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Diagnostics.StackTrace.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.Compression.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.FileSystem.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.FileSystem.DriveInfo.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.FileSystem.Primitives.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.Pipes.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Reflection.Metadata.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.AccessControl.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Claims.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.Algorithms.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.Encoding.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.Primitives.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.X509Certificates.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Principal.Windows.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Text.Encoding.CodePages.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Threading.Thread.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.ValueTuple.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.ReaderWriter.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.XmlDocument.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.XPath.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.XPath.XDocument.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._vbc.exe
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._vbc.exe.config
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._vbc.rsp
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._VBCSCompiler.exe
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/._VBCSCompiler.exe.config
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.exe
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.exe.config
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.rsp
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.exe
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.exe.config
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.rsp
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.AppContext.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Console.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.Process.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.Compression.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.DriveInfo.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.Pipes.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Claims.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Threading.Thread.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.ValueTuple.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XPath.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.exe
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.exe.config
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.rsp
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/VBCSCompiler.exe
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Agent.Intercept.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.PerfCounterCollector.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/WebGrease.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.pdb
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.xml
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Helpers.resources.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Mvc.resources.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Optimization.resources.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Razor.resources.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.resources.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Deployment.resources.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Razor.resources.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csprojResolveAssemblyReference.cache
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CoreCompileInputs.cache
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CopyComplete
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.dll
+C:/Users/ilscp/Documents/TEC/8 semestre/Proyecto Campamentos/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.pdb
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/ApplicationInsights.config
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.dll.config
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.pdb
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._csc.exe
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._csc.exe.config
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._csc.rsp
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._csi.exe
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._csi.exe.config
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._csi.rsp
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CSharp.Core.targets
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.VisualBasic.Core.targets
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.Win32.Primitives.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.AppContext.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Collections.Immutable.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Console.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Diagnostics.FileVersionInfo.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Diagnostics.Process.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Diagnostics.StackTrace.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.Compression.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.FileSystem.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.FileSystem.DriveInfo.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.FileSystem.Primitives.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.Pipes.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Reflection.Metadata.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.AccessControl.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Claims.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.Algorithms.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.Encoding.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.Primitives.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.X509Certificates.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Principal.Windows.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Text.Encoding.CodePages.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Threading.Thread.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.ValueTuple.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.ReaderWriter.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.XmlDocument.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.XPath.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.XPath.XDocument.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._vbc.exe
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._vbc.exe.config
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._vbc.rsp
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._VBCSCompiler.exe
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/._VBCSCompiler.exe.config
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.exe
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.exe.config
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.rsp
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.exe
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.exe.config
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.rsp
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.AppContext.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Console.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.Process.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.Compression.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.DriveInfo.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.Pipes.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Claims.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Threading.Thread.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.ValueTuple.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XPath.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.exe
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.exe.config
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.rsp
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/VBCSCompiler.exe
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/EntityFramework.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/EntityFramework.SqlServer.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Agent.Intercept.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.PerfCounterCollector.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/WebGrease.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/EntityFramework.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/EntityFramework.SqlServer.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.pdb
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.xml
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Helpers.resources.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Mvc.resources.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Optimization.resources.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Razor.resources.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.resources.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Deployment.resources.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Razor.resources.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CoreCompileInputs.cache
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CopyComplete
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.dll
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.pdb
+C:/Users/ilscp/Desktop/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csprojResolveAssemblyReference.cache
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/ApplicationInsights.config
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.dll.config
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.pdb
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._csc.exe
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._csc.exe.config
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._csc.rsp
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._csi.exe
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._csi.exe.config
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._csi.rsp
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.CSharp.Core.targets
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.VisualBasic.Core.targets
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._Microsoft.Win32.Primitives.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.AppContext.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Collections.Immutable.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Console.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Diagnostics.FileVersionInfo.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Diagnostics.Process.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Diagnostics.StackTrace.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.Compression.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.FileSystem.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.FileSystem.DriveInfo.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.FileSystem.Primitives.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.IO.Pipes.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Reflection.Metadata.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.AccessControl.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Claims.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.Algorithms.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.Encoding.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.Primitives.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Cryptography.X509Certificates.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Security.Principal.Windows.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Text.Encoding.CodePages.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Threading.Thread.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.ValueTuple.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.ReaderWriter.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.XmlDocument.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.XPath.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._System.Xml.XPath.XDocument.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._vbc.exe
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._vbc.exe.config
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._vbc.rsp
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._VBCSCompiler.exe
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/._VBCSCompiler.exe.config
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.exe
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.exe.config
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/csc.rsp
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.exe
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.exe.config
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/csi.rsp
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.AppContext.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Console.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.Process.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.Compression.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.DriveInfo.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.IO.Pipes.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Claims.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Threading.Thread.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.ValueTuple.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XPath.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.exe
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.exe.config
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/vbc.rsp
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/VBCSCompiler.exe
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/EntityFramework.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/EntityFramework.SqlServer.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Agent.Intercept.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.PerfCounterCollector.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/WebGrease.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/EntityFramework.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/EntityFramework.SqlServer.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.pdb
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.xml
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Helpers.resources.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Mvc.resources.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Optimization.resources.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Razor.resources.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.resources.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Deployment.resources.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Razor.resources.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csprojResolveAssemblyReference.cache
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CoreCompileInputs.cache
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CopyComplete
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.dll
+C:/Users/ilscp/Desktop/Nueva carpeta/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.pdb
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/ApplicationInsights.config
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/CampIAFCJ.pdb
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/EntityFramework.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/EntityFramework.SqlServer.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.Web.Infrastructure.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/WebGrease.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/EntityFramework.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/EntityFramework.SqlServer.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.Helpers.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.Mvc.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.Optimization.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.Razor.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Deployment.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/System.Web.WebPages.Razor.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Antlr3.Runtime.pdb
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Newtonsoft.Json.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.ApplicationInsights.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.DependencyCollector.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.ServerTelemetryChannel.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.WindowsServer.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/Microsoft.AI.Web.xml
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Helpers.resources.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Mvc.resources.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Optimization.resources.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/es/System.Web.Razor.resources.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.resources.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Deployment.resources.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/bin/es/System.Web.WebPages.Razor.resources.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csprojAssemblyReference.cache
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CoreCompileInputs.cache
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.csproj.CopyComplete
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.dll
+/Users/josezermeno/Desktop/prueba/CampIAFCJ/CampIAFCJ/obj/Debug/CampIAFCJ.pdb
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/EntityFramework.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/EntityFramework.SqlServer.dll
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/EntityFramework.xml
+/Users/josezermeno/Desktop/CampIAFCJ/CampIAFCJ/bin/EntityFramework.SqlServer.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\ApplicationInsights.config
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\CampIAFCJ.dll.config
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\CampIAFCJ.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\CampIAFCJ.pdb
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._csc.exe
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._csc.exe.config
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._csc.rsp
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._csi.exe
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._csi.exe.config
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._csi.rsp
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._Microsoft.CodeAnalysis.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._Microsoft.CSharp.Core.targets
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._Microsoft.VisualBasic.Core.targets
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._Microsoft.Win32.Primitives.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.AppContext.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Collections.Immutable.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Console.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Diagnostics.FileVersionInfo.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Diagnostics.Process.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Diagnostics.StackTrace.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.IO.Compression.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.IO.FileSystem.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.IO.FileSystem.DriveInfo.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.IO.FileSystem.Primitives.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.IO.Pipes.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Reflection.Metadata.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Security.AccessControl.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Security.Claims.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Security.Cryptography.Algorithms.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Security.Cryptography.Encoding.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Security.Cryptography.Primitives.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Security.Cryptography.X509Certificates.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Security.Principal.Windows.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Text.Encoding.CodePages.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Threading.Thread.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.ValueTuple.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Xml.ReaderWriter.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Xml.XmlDocument.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Xml.XPath.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._System.Xml.XPath.XDocument.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._vbc.exe
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._vbc.exe.config
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._vbc.rsp
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._VBCSCompiler.exe
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\._VBCSCompiler.exe.config
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\csc.exe
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\csc.exe.config
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\csc.rsp
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\csi.exe
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\csi.exe.config
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\csi.rsp
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.AppContext.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Console.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.IO.Compression.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.Claims.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.ValueTuple.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\vbc.exe
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\vbc.exe.config
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\vbc.rsp
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\VBCSCompiler.exe
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Antlr3.Runtime.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\EntityFramework.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\EntityFramework.SqlServer.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.Web.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Newtonsoft.Json.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.Helpers.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.Mvc.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.Optimization.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.Razor.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.WebPages.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.WebPages.Razor.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\WebGrease.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\EntityFramework.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\EntityFramework.SqlServer.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.Helpers.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.Mvc.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.Optimization.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.Razor.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.WebPages.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\System.Web.WebPages.Razor.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Antlr3.Runtime.pdb
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Newtonsoft.Json.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\Microsoft.AI.Web.xml
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\es\System.Web.Razor.resources.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\obj\Debug\CampIAFCJ.csprojResolveAssemblyReference.cache
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\obj\Debug\CampIAFCJ.csproj.CoreCompileInputs.cache
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\obj\Debug\CampIAFCJ.csproj.CopyComplete
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\obj\Debug\CampIAFCJ.dll
+C:\Users\ilscp\Desktop\MAAAAaAAAAC\CampIAFCJ\CampIAFCJ\obj\Debug\CampIAFCJ.pdb

@@ -1,0 +1,129 @@
+﻿@model IEnumerable<CampIAFCJ.Models.TablaUnida>
+
+    @{
+        ViewBag.Title = "administrador";
+    }
+
+    <link rel="stylesheet" type="text/css" href="/Content/estilo.css" />
+
+    <br /><br /><br /><br />
+
+
+    <p><a href="/Login/Index" class="btn btn-warning boton">Cerrar Sesión</a></p>
+    <br />
+
+    @if (Session["username"] != null)
+    {
+        <center>
+            <h2 class="titulo">Lista de Registros a Campamentos IAFCJ</h2>
+        </center>
+        <br /><br />
+        <div class="container">
+
+            <center>
+                <b>Buscar Tipo de Campamento: </b>
+
+                <select id="SearchBy">
+                    <option value="MostrarTodo">Mostrar Todo</option>
+                    <option value="adolescentes">Adolescentes</option>
+                    <option value="jovenes">Jóvenes</option>
+                    <option value="damas">Damas</option>
+                    <option value="senores">Señores</option>
+                </select>
+                <input type="submit" id="SearchBtn" value="Buscar" class="btn btn-warning fondobotones" /><br /><br />
+            </center>
+
+            <br />
+            <table class="table table-bordered">
+                <thead class="titulotabla">
+                    <tr>
+                        <td>Nombre</td>
+                        <td>Edad</td>
+                        <td>Género</td>
+                        <td>Estado Civil</td>
+                        <td>Iglesia</td>
+                        <td>Correo</td>
+                        <td>Camiseta</td>
+                        <td>Talla</td>
+                        <td>Campamento</td>
+                    </tr>
+                </thead>
+                <tbody id="DataSearching">
+
+                    @foreach (var item in Model)
+                    {
+                        <tr class="fondotabla">
+                            <td>@item.nombre.Nombre</td>
+                            <td>@item.edad.Edad</td>
+                            <td>@item.genero.Genero</td>
+                            <td>@item.estadoCivil.EstadoCivil</td>
+                            <td>@item.numIglesia.NumIglesia</td>
+                            <td>@item.correo.Correo</td>
+                            <td>@item.camiseta.Camiseta</td>
+                            <td>@item.talla.Talla</td>
+                            <td>@item.descripcion.Descripcion</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <br /><br />
+            <center>
+                <input type="submit" id="DescargarBtn" value="Enviar lista por correo" class="btn btn-warning fondobotones" /><br /><br />
+            </center>
+        </div>
+    }
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#SearchBtn").click(function () {
+                var SearchBy = $("#SearchBy").val();
+                var SetData = $("#DataSearching");
+                SetData.html("");
+                $.ajax({
+                    type: "post",
+                    url: "/Login/GetSearchingDataa?SearchBy=" + SearchBy,
+                    contentType: "html",
+                    success: function (result) {
+                        if (result.length == 0) {
+                            SetData.append('<tr style="color:red"><td colspan="3">No hay coincidencias</td></tr>')
+                        }
+                        else {
+                            $.each(result, function (index, value) {
+                                var Data = "<tr class='fondotabla'>" +
+                                    "<td>" + value.nombre.Nombre + "</td>" +
+                                    "<td>" + value.edad.Edad + "</td>" +
+                                    "<td>" + value.genero.Genero + "</td>" +
+                                    "<td>" + value.estadoCivil.EstadoCivil + "</td>" +
+                                    "<td>" + value.numIglesia.NumIglesia + "</td>" +
+                                    "<td>" + value.correo.Correo + "</td>" +
+                                    "<td>" + value.camiseta.Camiseta + "</td>" +
+                                    "<td>" + value.talla.Talla + "</td>" +
+                                    "<td>" + value.descripcion.Descripcion + "</td>" +
+                                    "</tr>";
+                                SetData.append(Data);
+                            });
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $("#DescargarBtn").click(function () {
+                var descargar = $("#SearchBy").val();
+                alert("Se ha enviado la lista " + descargar + " al correo!");
+                $.ajax({
+                    type: "post",
+                    url: "/Login/DescargarPDF?descargar=" + descargar,
+                    contentType: "html",
+                    success: function (result) {
+                    }
+                });
+            });
+        });
+    </script>
+    <br /><br /><br /><br />
+

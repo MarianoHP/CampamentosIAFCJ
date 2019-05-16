@@ -1,0 +1,120 @@
+﻿body {
+    margin: 0;
+    background-color: #EFDACA;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+.titulo {
+    color: #C89B6F;
+}
+.fondobotones {
+    border-width: 2px;
+    background-color: #EFDACA !important;
+    border-color: #C89B6F !important;
+    color: #C89B6F !important;
+    font-weight: bold;
+}
+    .fondobotones:hover {
+        color: white !important;
+        background-color: #C89B6F !important;
+        border-color: #EFDACA !important;
+    }
+.fondobotones2 {
+    border-width: 2px;
+    background-color: #C89B6F !important;
+    border-color: #EFDACA !important;
+    color: white !important;
+}
+    .fondobotones2:hover {
+        color: #C89B6F !important;
+        background-color: #EFDACA !important;
+        border-color: #EFDACA !important;
+    }
+.mensaje {
+    color: darkblue;
+    text-align: center;
+}
+.img {
+    margin-left: 50px;
+    float: left;
+    margin-top: 10px;
+}
+.nom {
+    float: left;
+    margin-left: 5px;
+    padding-right: 5px;
+    color: white;
+    font-size: 25px;
+    border-right: white 2px solid;
+}
+.boton {
+    float: right;
+}
+.fondotabla {
+    background-color: white !important;
+}
+.fondotabla:hover {
+        background-color: #EFDACA !important;
+    }
+
+.titulotabla {
+    background-color: #C89B6F !important;
+}
+li {
+    padding-bottom: 20px;
+}
+.texto {
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+.cuadros2 {
+    height: 250px;
+    width: 500px;
+    background-color: #C89B6F;
+    text-align: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+    .cuadros2:hover {
+        background-color: #EFDACA;
+    }
+.cuadrostitulos {
+    height: 150px;
+    width: 900px;
+    text-align: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 25px;
+    color: #C89B6F;
+}
+.cuadros p.mensaje {
+    font-size: 15px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.cuadros p.cita {
+    font-size: 15px;
+    text-align: right;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.cajagrande {
+    width: 95%;
+    margin: 0 auto;
+}
+.cuadros {
+    height: 420px;
+    width: 280px;
+    background-color: #C89B6F;
+    float: left;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+    .cuadros p {
+        font-size: 30px;
+        color: white;
+    }

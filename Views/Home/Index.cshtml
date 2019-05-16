@@ -1,34 +1,41 @@
 ﻿@{
     ViewBag.Title = "Home Page";
 }
+
+<link rel="stylesheet" type="text/css" href="/Content/estilo.css" />
+
 <br /><br /><br /><br />
 <div class="cajagrande">
     <h1 class="titulo">Registro a Campamentos</h1>
     <div class="cuadros">
-        <img src="@Url.Content("/Images/pruebacampa.jpg")">
-
-
+        <img src="@Url.Content("/Images/adolescentes.jpg")" width="100%">
         <p>Adolescentes</p>
-        <p><a href="/Validar/Index" type="button" role="button" class="btn btn-outline-secondary">Registrar</a></p>
-
-        <button href="/Validar/Index" type="button" class="btn btn-outline-secondary"> Registrar </button>
-
-
+        <p class="mensaje"><i>Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas.</i></p>
+        <p class="cita">Josué 1:9</p>
+        <a class="btn btn-primary fondobotones2" href="~/ValidarAdolescente/Index" role="button"><b>Registrar</b></a>
     </div>
     <div class="cuadros">
-        <img src="@Url.Content("/Images/pruebacampa.jpg")">
+        <img src="@Url.Content("/Images/jovenes.jpg")" width="100%">
         <p>J&oacute;venes</p>
-        <button class="btncuadro1"><b>Registrar</b></button>
+        <p class="mensaje"><i>Así que, somos embajadores en nombre de Cristo, como si Dios rogase por medio de nosotros; os rogamos en nombre de Cristo: Reconciliaos con Dios.</i></p>
+        <p class="cita">2 Corintios 5:20</p>
+        <a class="btn btn-primary fondobotones2" href="~/ValidarJoven/Index" role="button"><b>Registrar</b></a>
     </div>
     <div class="cuadros">
-        <img src="@Url.Content("/Images/pruebacampa.jpg")">
+        <img src="@Url.Content("/Images/damas.jpg")" width="100%">
         <p>Damas</p>
-        <button class="btncuadro1"><b>Registrar</b></button>
+        <p class="mensaje"><i>Pero esforzaos vosotros, y no desfallezcan vuestras manos; pues hay recompensa para vuestra obra.</i></p>
+        <p class="cita">2 Crónicas 15:7 </p>
+        <br />
+        <a class="btn btn-primary fondobotones2" href="~/ValidarDama/Index" role="button"><b>Registrar</b></a>
     </div>
     <div class="cuadros">
-        <img src="@Url.Content("/Images/pruebacampa.jpg")">
+        <img src="@Url.Content("/Images/senores.jpg")" width="100%">
         <p>Señores</p>
-        <button class="btncuadro1"><b>Registrar</b></button>
+        <p class="mensaje"><i>Velad, estad firmes en la fe; portaos varonilmente, y esforzaos. Todas vuestras cosas sean hechas con amor.</i></p>
+        <p class="cita">1 Corintios 16:13-14</p>
+        <br />
+        <a class="btn btn-primary fondobotones2" href="~/ValidarSenor/Index" role="button"><b>Registrar</b></a>
     </div>
 </div>
 
@@ -36,7 +43,6 @@
 <br /><br /><br /><br />
 <br /><br /><br /><br />
 <br /><br /><br /><br />
-
 <br /><br /><br /><br />
 <br /><br /><br /><br />
 <br /><br /><br /><br />
@@ -46,153 +52,3 @@
 <br /><br /><br /><br />
 <br /><br /><br /><br />
 <br /><br /><br /><br />
-<br /><br /><br /><br />
-<br /><br /><br /><br />
-<br /><br /><br /><br />
-
-<style type="text/css">
-    body {
-        margin: 0;
-        background-color: #EFDACA;
-        font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
-    }
-
-    .cabecera {
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 105px;
-        background-color: #C89B6F;
-        position: fixed;
-    }
-
-
-    .img {
-        margin-left: 50px;
-        float: left;
-        margin-top: 10px;
-    }
-
-    .nom {
-        float: left;
-        margin-left: 5px;
-        padding-right: 5px;
-        color: white;
-        font-size: 25px;
-        border-right: white 2px solid;
-    }
-
-    .btnAdmin {
-        float: right;
-        margin: 35px;
-        width: 125px;
-        height: 35px;
-        border: white 2px solid;
-        background-color: #C89B6F;
-        color: white;
-        font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
-        font-size: 15px;
-    }
-
-    .cajagrande {
-        width: 95%;
-        margin: 0 auto;
-    }
-
-    .cuadros {
-        height: 400px;
-        width: 280px;
-        background-color: #C89B6F;
-        /*border-radius: 10px;*/
-        float: left;
-        text-align: center;
-        margin-right: 20px;
-        margin-left: 20px;
-        margin-top: 20px;
-    }
-
-        .cuadros button {
-            width: 125px;
-            height: 35px;
-            border: white 2px solid;
-            background-color: #C89B6F;
-            color: white;
-            font-size: 15px;
-        }
-
-        .cuadros p {
-            font-size: 30px;
-            color: white;
-        }
-
-
-    .main {
-        padding-top: 7rem;
-    }
-
-    .titulo {
-        margin-left: 20px;
-        color: #C89B6F;
-    }
-
-
-    .bg-modal {
-        width: 100%;
-        height: 100%;
-        background-color: rgba(0, 0, 0, 0.8);
-        position: absolute;
-        top: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .bg-modal {
-        display: none;
-    }
-
-    .titulopopup {
-        width: 500px;
-        height: 70px;
-        background-color: #C89B6F;
-        border-top-right-radius: 10px;
-        border-top-left-radius: 10px;
-        border-bottom: gray 3px solid;
-        text-align: center;
-        font-size: 22px;
-        color: white;
-    }
-
-    .contenido-modal {
-        width: 500px;
-        height: 250px;
-        background-color: #EFDACA;
-        border-bottom-left-radius: 10px;
-        border-bottom-right-radius: 10px;
-        text-align: center;
-    }
-
-    input {
-        width: 50%;
-        height: 20px;
-        display: block;
-        margin: 0 auto;
-        margin-bottom: 15px;
-        border-radius: 10px;
-    }
-
-    .button {
-        border-radius: 15px;
-        background-color: #C89B6F;
-        font-size: 30px;
-        color: white;
-        width: 70px;
-    }
-
-    #cerrar {
-        position: absolute;
-    }
-</style>
-
-
-

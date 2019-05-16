@@ -1,0 +1,122 @@
+﻿@model CampIAFCJ.Models.FormularioJovenes
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <link rel="stylesheet" type="text/css" href="/Content/estilo.css" />
+
+    <br /><br /><br /><br />
+
+    <div class="form-horizontal">
+        <h1 class="titulo">Formulario de registro Jóvenes</h1>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.NumeroIglesia, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.NumeroIglesia, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.NumeroIglesia, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Edad, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Edad, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Edad, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+        <!--  añadir RadioButton-->
+        <div class="form-group">
+            @Html.LabelFor(model => model.Genero, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Label("Hombre")
+                @Html.RadioButtonFor(model => model.Genero, "H")
+                @Html.Label("Mujer")
+                @Html.RadioButtonFor(model => model.Genero, "M")
+                @Html.ValidationMessageFor(model => model.Genero, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <!--  añadir RadioButton-->
+        <div class="form-group">
+            @Html.LabelFor(model => model.Camiseta, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Label("Si")
+                @Html.RadioButtonFor(model => model.Camiseta, "S", new { @id = "yes" })
+                @Html.Label("No")
+                @Html.RadioButtonFor(model => model.Camiseta, "N", new { @id = "no" })
+                @Html.ValidationMessageFor(model => model.Camiseta, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <!--  añadir RadioButton-->
+        <div class="form-group" id="sizes" style="display:none">
+            @Html.LabelFor(model => model.Talla, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Label("Chica")
+                @Html.RadioButtonFor(model => model.Talla, "C", new { @id = "requerido" })
+                @Html.Label("Mediana")
+                @Html.RadioButtonFor(model => model.Talla, "M", new { @id = "requerido" })
+                @Html.Label("Grande")
+                @Html.RadioButtonFor(model => model.Talla, "G", new { @id = "requerido" })
+                @Html.ValidationMessageFor(model => model.Talla, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CorreoElectronico, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CorreoElectronico, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CorreoElectronico, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <h2 class="mensaje">@ViewData["Message"]</h2>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Enviar" class="btn btn-default fondobotones" />
+            </div>
+        </div>
+    </div>
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+<script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#yes").click(function () {
+            $("#sizes").show();
+            $('#requerido').rules('add', { required: true });
+        });
+    });
+    $(document).ready(function () {
+        $("#no").click(function () {
+            $("#sizes").hide();
+            $('#requerido').rules('remove', 'required');
+        });
+    });
+
+</script>

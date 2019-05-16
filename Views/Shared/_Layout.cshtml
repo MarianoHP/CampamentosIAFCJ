@@ -1,10 +1,10 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+    <title>@ViewBag.Title</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 </head>
@@ -14,24 +14,10 @@
             <div class="navbar-header">
                 <!--Esto es una prueba-->
 
-                <style type="text/css">
-                    .img {
-                        margin-left: 50px;
-                        float: left;
-                        margin-top: 10px;
-                    }
+                <link rel="stylesheet" type="text/css" href="/Content/estilo.css" />
 
-                    .nom {
-                        float: left;
-                        margin-left: 5px;
-                        padding-right: 5px;
-                        color: white;
-                        font-size: 25px;
-                        border-right: white 2px solid;
-                    }
-                </style>
-                <img src="@Url.Content("/Images/iafcjlogo.PNG")" class="img"  width="5%">
-                <p class="nom"> <b>Iglesia Apostolica de<br />la Fe en Cristo Jesus</b></p>
+                <img src="@Url.Content("/Images/CampamentosLogo.png")" class="img" width="50" height="60">
+                <p class="nom"> <b>Iglesia Apostólica de<br />la Fe en Cristo Jesús</b></p>
 
 
                 <!--Termina la prueba-->
@@ -45,7 +31,12 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Registro Campamentos", "Index", "Home")</li>
-                    <li>@Html.ActionLink("Administrador", "Index", "Login")</li>
+                    @if (Session["username"] == null)
+                    {
+                        <li>@Html.ActionLink("Administrador", "Index", "Login")</li>}
+                    @if (Session["username"] != null)
+                    {
+                        <li>@Html.ActionLink("Administrador", "administrador", "Login")</li>}
                     <li>@Html.ActionLink("Acerca de", "About", "Home")</li>
                     <li>@Html.ActionLink("Contacto", "Contact", "Home")</li>
                 </ul>
@@ -56,7 +47,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&reg;2019  Iglesia Apostólica de la Fe en Cristo Jesús, A.R.</p>
+            <p class="titulo">&reg;2019  Iglesia Apostólica de la Fe en Cristo Jesús, A.R.</p>
         </footer>
     </div>
 

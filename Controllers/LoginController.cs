@@ -157,6 +157,8 @@ namespace CampIAFCJ.Controllers
             image.ScaleToFit(100f, 100f);
             // adding image to document
             doc.Add(image);
+
+
             doc.Add(new Paragraph("                                                        Iglesia Apostólica de la Fe en Cristo Jesús", FontFactory.GetFont("ARIAL", 16, iTextSharp.text.Font.BOLD)));
 
             doc.Add(new Paragraph("                                                             "));

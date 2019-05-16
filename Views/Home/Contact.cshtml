@@ -1,10 +1,23 @@
 ﻿@{
+    /**/
+
     ViewBag.Title = "Contact";
 }
+<style type="text/css">
+    body {
+        margin: 0;
+        background-color: #EFDACA;
+        font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    }
+
+    .titulo {
+        color: #C89B6F;
+    }
+</style>
 
 <br /><br /><br /><br />
-<h2>@ViewBag.Title.</h2>
-<h3>@ViewBag.Message</h3>
+<h2 class="titulo">@ViewBag.Title.</h2>
+<h3 class="titulo">@ViewBag.Message</h3>
 
 <address>
     One Microsoft Way<br />
@@ -17,3 +30,4 @@
     <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
     <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
 </address>
+

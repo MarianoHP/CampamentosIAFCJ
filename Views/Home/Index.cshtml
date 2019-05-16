@@ -5,30 +5,34 @@
 <div class="cajagrande">
     <h1 class="titulo">Registro a Campamentos</h1>
     <div class="cuadros">
-        <img src="@Url.Content("/Images/pruebacampa.jpg")">
-
-
+        <img src="@Url.Content("/Images/adolescentes.jpg")" width="100%">
         <p>Adolescentes</p>
-        <p><a href="/Validar/Index" type="button" role="button" class="btn btn-outline-secondary">Registrar</a></p>
-
-        <button href="/Validar/Index" type="button" class="btn btn-outline-secondary"> Registrar </button>
-
-
+        <p class="mensaje"><i>Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas.</i></p>
+        <p class="cita">Josué 1:9</p>
+        <a class="btn btn-primary fondobotones" href="~/Validar/Index" role="button"><b>Registrar</b></a>
     </div>
     <div class="cuadros">
-        <img src="@Url.Content("/Images/pruebacampa.jpg")">
+        <img src="@Url.Content("/Images/jovenes.jpg")" width="100%">
         <p>J&oacute;venes</p>
-        <button class="btncuadro1"><b>Registrar</b></button>
+        <p class="mensaje"><i>Así que, somos embajadores en nombre de Cristo, como si Dios rogase por medio de nosotros; os rogamos en nombre de Cristo: Reconciliaos con Dios.</i></p>
+        <p class="cita">2 Corintios 5:20</p>
+        <a class="btn btn-primary fondobotones" href="~/Validar/Index" role="button"><b>Registrar</b></a>
     </div>
     <div class="cuadros">
-        <img src="@Url.Content("/Images/pruebacampa.jpg")">
+        <img src="@Url.Content("/Images/damas.jpg")" width="100%">
         <p>Damas</p>
-        <button class="btncuadro1"><b>Registrar</b></button>
+        <p class="mensaje"><i>Pero esforzaos vosotros, y no desfallezcan vuestras manos; pues hay recompensa para vuestra obra.</i></p>
+        <p class="cita">2 Crónicas 15:7 </p>
+        <br />
+        <a class="btn btn-primary fondobotones" href="~/Validar/Index" role="button"><b>Registrar</b></a>
     </div>
     <div class="cuadros">
-        <img src="@Url.Content("/Images/pruebacampa.jpg")">
+        <img src="@Url.Content("/Images/senores.jpg")" width="100%">
         <p>Señores</p>
-        <button class="btncuadro1"><b>Registrar</b></button>
+        <p class="mensaje"><i>Velad, estad firmes en la fe; portaos varonilmente, y esforzaos. Todas vuestras cosas sean hechas con amor.</i></p>
+        <p class="cita">1 Corintios 16:13-14</p>
+        <br />
+        <a class="btn btn-primary fondobotones" href="~/Validar/Index" role="button"><b>Registrar</b></a>
     </div>
 </div>
 
@@ -55,6 +59,32 @@
         margin: 0;
         background-color: #EFDACA;
         font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    }
+
+    .fondobotones {
+        border-width: 2px;
+        background-color: #C89B6F !important;
+        border-color: #EFDACA !important;
+        color: white !important;
+    }
+
+        .fondobotones:hover {
+            color: #C89B6F !important;
+            background-color: #EFDACA !important;
+            border-color: #EFDACA !important;
+        }
+    .cuadros p.mensaje {
+        font-size: 15px;
+        text-align: justify;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .cuadros p.cita {
+        font-size: 15px;
+        text-align: right;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
     .cabecera {
@@ -100,7 +130,7 @@
     }
 
     .cuadros {
-        height: 400px;
+        height: 420px;
         width: 280px;
         background-color: #C89B6F;
         /*border-radius: 10px;*/

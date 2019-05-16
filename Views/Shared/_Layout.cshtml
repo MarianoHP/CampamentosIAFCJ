@@ -29,9 +29,12 @@
                         font-size: 25px;
                         border-right: white 2px solid;
                     }
+                    .titulo {
+                        color: #C89B6F;
+                    }
                 </style>
-                <img src="@Url.Content("/Images/iafcjlogo.PNG")" class="img"  width="5%">
-                <p class="nom"> <b>Iglesia Apostolica de<br />la Fe en Cristo Jesus</b></p>
+                <img src="@Url.Content("/Images/CampamentosLogo.PNG")" class="img"  width="50px" height="60px">
+                <p class="nom"> <b>Iglesia Apostólica de<br />la Fe en Cristo Jesús</b></p>
 
 
                 <!--Termina la prueba-->
@@ -45,7 +48,10 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Registro Campamentos", "Index", "Home")</li>
-                    <li>@Html.ActionLink("Administrador", "Index", "Login")</li>
+                    @if (Session["username"] == null){
+                    <li>@Html.ActionLink("Administrador", "Index", "Login")</li>}
+                    @if (Session["username"] != null){
+                    <li>@Html.ActionLink("Administrador", "welcome", "Login")</li>}
                     <li>@Html.ActionLink("Acerca de", "About", "Home")</li>
                     <li>@Html.ActionLink("Contacto", "Contact", "Home")</li>
                 </ul>
@@ -56,7 +62,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&reg;2019  Iglesia Apostólica de la Fe en Cristo Jesús, A.R.</p>
+            <p  class="titulo">&reg;2019  Iglesia Apostólica de la Fe en Cristo Jesús, A.R.</p>
         </footer>
     </div>
 

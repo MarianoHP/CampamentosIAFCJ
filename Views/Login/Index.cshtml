@@ -8,37 +8,9 @@
 {
     @Html.AntiForgeryToken()
 
-
-    <style type="text/css">
-        body {
-            margin: 0;
-            background-color: #EFDACA;
-            font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
-        }
-
-        .titulo {
-            color: #C89B6F;
-        }
-
-        .fondobotones {
-            border-width: 2px;
-            background-color: #EFDACA !important;
-            border-color: #C89B6F !important;
-            color: #C89B6F !important;
-            font-weight: bold;
-        }
-
-            .fondobotones:hover {
-                color: white !important;
-                background-color: #C89B6F !important;
-                border-color: #EFDACA !important;
-            }
-    </style>
-
-
     <br /><br /><br /><br />
     <div class="form-horizontal">
-        <h2 class="titulo">Inicio de sesión</h2>
+        <h2>Inicio de sesión</h2>
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         <div class="form-group">
@@ -59,7 +31,7 @@
 
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
-                <input type="submit" value="Enviar" class="btn btn-primary fondobotones"/>
+                <input type="submit" value="Enviar" class="btn btn-primary" />
             </div>
         </div>
         <h1>@Html.ViewData["Message"]</h1>
